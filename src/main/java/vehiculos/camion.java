@@ -12,3 +12,4 @@ public class Camion extends Vehiculo {
         return ejes;
     }
 }
+
