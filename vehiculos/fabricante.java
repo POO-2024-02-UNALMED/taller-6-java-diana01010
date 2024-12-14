@@ -1,4 +1,4 @@
-
+package vehiculos;
 
 public class Fabricante {
     private String nombre;
